@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e74a0a226862fc746adb5cb6d352736d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tuwir
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07939911dc29940408ae9a8f8a0b935e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
